@@ -3,10 +3,10 @@
     <img src="https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png/revision/latest?cb=20130810185858" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">ascoolarobban</h3>
 
   <p align="center">
-    Short description
+
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
