@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Labb3_Rainbow_Robin_Ellingsen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Labb3_Rainbow_Robin_Ellingsen">
+				<Option output="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Labb3_Rainbow_Robin_Ellingsen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labb3_Rainbow_Robin_Ellingsen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Labb3_Rainbow_Robin_Ellingsen/fast">
+				<Option output="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Labb3_Rainbow_Robin_Ellingsen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labb3_Rainbow_Robin_Ellingsen/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/robin/Library/Mobile\ Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/Labb3_Rainbow_Robin_Ellingsen.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/blink.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/colorSwitch.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/declare.h">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/rainbow.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/readKey.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/showstopper.ino">
+			<Option target="Labb3_Rainbow_Robin_Ellingsen"/>
+		</Unit>
+		<Unit filename="/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

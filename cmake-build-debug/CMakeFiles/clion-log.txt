@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/robin/Library/Mobile Documents/com~apple~CloudDocs/DEV/Arduino/Labb3_Rainbow_Robin_Ellingsen"
+-- Configuring done
+CMake Error: Cannot determine link language for target "Labb3_Rainbow_Robin_Ellingsen".
+CMake Error: CMake can not determine linker language for target: Labb3_Rainbow_Robin_Ellingsen
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
